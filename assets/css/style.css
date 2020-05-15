@@ -101,12 +101,12 @@ a{
 }
 
 .top{
-    height: 400px;
+    height: 380px;
     max-width: 1280px;
     margin: -20px auto;
     background-image: url(/assets/lineart.png);
     color: #555;
-    background-size: 1188px 119px;
+    background-size: 1188px 219px;
     background-repeat: no-repeat;
     background-position: top;
     /* background: blue; */
