@@ -1,3 +1,11 @@
 theme: jekyll-theme-slate
 title: [歇即菩提]
 description: [读书笔记存放点]
+
+lang       : zh
+
+copyright  : © 2020 - 2020 scott.cgi All Rights Reserved
+
+nav:
+ - name: 中文
+   link: /
