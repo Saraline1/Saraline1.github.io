@@ -8,11 +8,11 @@
 
 <!-- 版本二 可切换页面 -->
 {% if page.color.size==0 or page.color==nil %}
-<div class="post-top" style="background-color:#9A85FF;">
+<div class="post-top" style="background-color:#FFAE35;">
   <!-- 页面宽度大于800px -->
   <div class="left-area">
     {% if page.next.url %}
-      <a href="{{ page.next.url }}" class="btn bounceInLeft animated" onmouseover="showLeft();this.style.color='#9A85FF';" onmouseout="goneLeft();this.style.color='rgba(0,0,0,.2)';"><</a>
+      <a href="{{ page.next.url }}" class="btn bounceInLeft animated" onmouseover="showLeft();this.style.color='#FFAE35';" onmouseout="goneLeft();this.style.color='rgba(0,0,0,.2)';"><</a>
       <div id="left-tab" style="display:none;"><span class="left-san"></span><span class="left-main" style="color:#9A85FF;"><sapn class="main">{{ page.next.title }}</sapn></span></div>
     {% else %}
       <a href="javascript:;" class="btn bounceInLeft animated" onmouseover="showLeft();this.style.color='#9A85FF';" onmouseout="goneLeft();this.style.color='rgba(0,0,0,.2)';"><</a>
