@@ -1,10 +1,8 @@
-## 日记
+## Hi
 
-[资料](http://cbetaonline.cn/zh/T1775_001) 来源。
+第一次建博客，非常感谢[xukimseven](https://github.com/xukimseven/HardCandy-Jekyll)的模板以及[教程](http://jekyllthemes.org/themes/HardCandy-Jekyll/)！本来觉得自己有点编程基础不至于太困难，但开始了才发现世界那么大还有好多需要去学习。等做好了博客也写一下自己的搭建过程。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 二级标题
+### Mardown使用
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
