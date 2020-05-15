@@ -8,7 +8,7 @@ cover: '/assets/user.jpg'
 tags: intro
 ---
 
-> Transform your plain text into static websites and blogs.
+>记录下个人博客的建立过程。
 
 # Welcome
 
