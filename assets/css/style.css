@@ -106,14 +106,14 @@ a{
     margin: -20px auto;
     background-image: url(/assets/lineart.png);
     color: #555;
-    background-size: 1188px 219px;
+    background-size: 1188px 119px;
     background-repeat: no-repeat;
     background-position: top;
     /* background: blue; */
     /*border-bottom: 1px solid #e7eaf1;*/
     position: relative;
     z-index: -1;
-    background-color: transparent;
+    background-color: white;
 }
 .top svg{
   fill: blue;
