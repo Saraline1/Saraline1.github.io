@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Hello Jekyll'
-date: 2017-04-18
-author: Jekyll
+title: 'Hello there'
+date: 2020-05-15
+author: kohaku
 color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: jekyll
+cover: '/assets/user.jpg'
+tags: intro
 ---
 
 > Transform your plain text into static websites and blogs.
@@ -16,7 +16,7 @@ tags: jekyll
 
 ### Welcome
 
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
+记录下个人博客的建立过程。
 
 ### So what is Jekyll, exactly?Permalink
 
