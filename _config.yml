@@ -17,28 +17,18 @@ author: true
 name: '阿诺琥珀'
 NickName: '琥珀'
 webtitle: 'your awesome webtitle'
-bio: '捕梦者'
+bio: ''
 about: true
-aboutyou: '喜欢石川啄木，禅修坚持中'
-portraits: '/assets/test.png' # your portraits image file path
+aboutyou: '喜欢石川啄木，禅修坚持中。'
+portraits: '/assets/aya.png' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
+  mail: 'mailto:1206066508@qq.com'
   weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
-  Codepen: ''
   weibo: ''
-  instagram: ''
   Twitter: 'https://twitter.com/beatrice_aoi'
-  Dribbble: ''
-  Facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
 
 # 分页
 paginate: 4
@@ -46,7 +36,7 @@ paginatepath: ['page:num']
 
 # since
 footer:
-  since: 2018
+  since: 2020
 
 # Markdown
 markdown: kramdown
