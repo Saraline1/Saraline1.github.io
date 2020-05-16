@@ -3,7 +3,7 @@ html,body,ul,li,div,header,nav,main,footer{
     padding: 0;
 }
 html{
-    background-image: url(/assets/back6.svg);
+    background-image: url(/assets/leaf.svg);
     /*background-size: 100%;*/
     background-attachment:fixed;
     background-repeat:repeat;
@@ -105,9 +105,9 @@ a{
     height: 400px;
     max-width: 1280px;
     margin: -20px auto;
-    background-image: url(/assets/lineart.png);
+    background-image: url(/assets/aya2.png);
     color: #555;
-    background-size: 1188px 219px;
+    background-size: 1089px 531px;
     background-repeat: no-repeat;
     background-position: top;
     /* background: blue; */
