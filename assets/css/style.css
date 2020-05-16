@@ -3,7 +3,7 @@ html,body,ul,li,div,header,nav,main,footer{
     padding: 0;
 }
 html{
-    background-image: url(/assets/leaf.svg);
+    background-image: url(/assets/leaf.png);
     /*background-size: 100%;*/
     background-attachment:fixed;
     background-repeat:repeat;
