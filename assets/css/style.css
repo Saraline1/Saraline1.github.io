@@ -573,8 +573,8 @@ a{
   height: 550px;
   width: 100%;
   /*background-color: #9A85FF;*/
-  background-image: url(/assets/leaf.png);<!-- 改头图 -->
-  background-size: 1188px 219px;
+  background-image: url(/assets/hyohyo.svg);<!-- 改头图 -->
+  background-size: 300px 300px;
   background-position: top;
   background-repeat: no-repeat;
   position: relative;
