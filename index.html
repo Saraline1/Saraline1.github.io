@@ -1,68 +1,80 @@
-<!DOCTYPE html>
-<html>
+﻿<!DOCTYPE html>
+<html lang="zh">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Mozilla 宣传主页</title>
-    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+SC:400,700" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
+
+      <meta charset="utf-8">
+      <meta name="description" content="寻找白"> <!--好像是搜索时用的-->
+      <link rel="shortcut icon" href="../web-template/images/suika.png" type="image/x-icon">
+      <!--样式应用-->
+      <link rel="stylesheet" href="styles/style.css">
+      <!--显示在标签页和书签的网站名-->
+      <title>Finding shiro</title>
+
   </head>
+
   <body>
-    <header>
-      <h1>Mozilla</h1>
-      <!-- 插入 <img> 元素，链接至较小的 Firefox 标志。 -->
-    <img src="firefox_logo-only_RGB_120.png">
-    </header>
+    <!-- 主体部分 -->
+    <div class="header1">
+      <h1>白を探す</h1>
+    </div>
+    <div class="header">
+      
+        <h1>FINDING SHIRO</h1>
+     
+    </div>
 
-    <main>
-      <article>
-        <!-- 插入来自 Bilibili 的 <iframe> 元素 -->
-            <iframe width="400" height="225" src="//player.bilibili.com/player.html?aid=3303261&bvid=BV1rs411d7hC&cid=5221343&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-        <h2>自由网络 尽情驰骋</h2>
+    
 
-        <p>Mozilla 是一个全球社区，这里聚集着来自五湖四海的 技术人员、思考者、建造者。我们致力于让 Internet 保持活力，保持畅通，人人皆可贡献，人人皆可创造。我们坚信：开放平台的协作对于人的发展至关重要，也决定着我们共同的未来。</p>
+    <div class="main">
+    <!-- 内容 -->
+    <article>
+     <div class="box1">
+      <p>2021  2  19</p>
+      <h2>永久</h2>
+      <img src="images/yongjiu.JPG" width="80% ">
+     </div>
+     
 
-        <p>更多精彩信息，敬请点击下方图片。<a href="https://www.flickr.com/photos/mathiasappel/21675551065/">小熊猫照片</a>由 Mathias Appel 拍摄</p>
+      <div class="box2">
+        <p>2021  2  17</p>
+        <h2>Cutted Tree </h2>
+        <img src="images/past.JPG" alt="past view">
+      </div>
+      <p>灵感来源于林璎用回收银表现美国的重要流域，用枯枝做成被过度砍伐的树。</p>
+      <div class="images">
+        <img src="images/ballpen.JPG" alt="sketch of trees">
+        <img src="images/branches.JPG" alt="details">
+        <img src="images/calligraphy.JPG" alt="tree painted in calligraphy"">
+        <img src="images/branches1.JPG" alt="full work">
+      </div>
+    
+      <div class="box1">
+        <p>2020  8  16</p>
+        <h2>书皮设计 这锅我不背</h2>
+        <img src="images/book1.JPG" width="80% ">
+       </div>
+
+      </div>
+      
+      
       </article>
+      <div class="clearfix"></div>
+      
+      <p class="footer">©Copyright 2021 by ano. All rights reversed.</p>
+    </div>
 
-      <div class="further-info">
-        <!-- 插入包含 srcsets 和 sizes 属性的图像 -->
-        <a href="https://www.mozilla.org/zh-CN/firefox/new/">
-          <img srcset="firefox_logo-only_RGB_120.png 120w,
-          firefox_logo-only_RGB_400.png 400w"
-            sizes="(max-width: 480px) 120px,
-                400px"
-            src="firefox_logo-only_RGB_120.png" alt="firefox">
-        </a>
-        <a href="https://www.mozilla.org/">
-            <img srcset="mozilla-dinosaur-head_120.png 120w,
-            mozilla-dinosaur-head_400.png 400w"
-              sizes="(max-width: 480px) 120px,
-                  400px"
-              src="mozilla-dinosaur-head_120.png" alt="firefox">
-        </a>
-        <a href="https://addons.mozilla.org/">
-            <img srcset="firefox-addons_120.png 120w,
-            firefox-addons_400.jpg 400w"
-              sizes="(max-width: 480px) 120px,
-                  400px"
-              src="firefox-addons_400.png" alt="firefox">
-        </a>
-        <a href="https://developer.mozilla.org/zh-CN/">
-            <img src="mdn.svg" alt="firefox">
-        </a>
-        <div class="clearfix"></div>
-      </div>
+    
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html">Auther</a></li>
+          <li><a href="index.html">Works</a></li> <!--链接不能变色？-->
+        </ul>
 
-      <div class="red-panda">
-        <!-- 插入照片元素 -->
-        <picture>
-            <source media="(max-width: 599px)" srcset="red-panda_600.jpg">
-                <source media="(min-width: 600px)" srcset="red-panda.jpg">
-                <img src="red-panda.jpg" alt="promarebd">
-        </picture>
-      </div>
+      </nav>
+  
+ 
 
-    </main>
+
   </body>
 </html>
